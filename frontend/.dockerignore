@@ -1,0 +1,7 @@
+#Filovi koji nam ne trebaju u projektu
+Dockerfile
+.dockerignore
+.gitignore
+
+#Artifakti koje ce se builtati tokom image
+node_modules

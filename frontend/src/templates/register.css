@@ -1,0 +1,27 @@
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+.btn-register {
+  border: 1px solid #5767aa;
+  box-shadow: 0px 0px 8px#5767aa;
+  background-color:#5767aa;
+  border-radius: 5px;
+  padding: 1rem;
+
+  }
+
+  .btn-x{
+    border: 1px solid #5767aa;
+    box-shadow: 0px 0px 8px#5767aa;
+    background-color:#5767aa;
+    border-radius: 5px;
+    padding: 1rem;
+
+  }
+  
